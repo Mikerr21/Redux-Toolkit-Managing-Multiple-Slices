@@ -1,3 +1,4 @@
+#Visit master branch for the code.
 # Redux-Toolkit-Managing-Multiple-Slices
 Small application to get an overview on how to manage slices. 
 ### Redux Store Design   
